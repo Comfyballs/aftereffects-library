@@ -1,0 +1,12 @@
+# Claude Code / MCP (machine-local paths and settings)
+.claude/
+.mcp.json
+
+# After Effects
+Auto-Save/
+Adobe After Effects Auto-Save/
+*.aep Logs/
+
+# macOS
+.DS_Store
+._*
